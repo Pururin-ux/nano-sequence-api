@@ -1,0 +1,8 @@
+{
+  "name": "nano-sequence-api",
+  "main": "src/index.mjs",
+  "compatibility_date": "2026-09-27",
+  "d1_databases": [
+    { "binding": "DB", "database_name": "nano-sequence-credits", "database_id": "214eed6b-72e5-46d0-ab74-37e0d056a2d6" }
+  ]
+}

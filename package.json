@@ -1,0 +1,14 @@
+{
+  "name": "nano-sequence-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
